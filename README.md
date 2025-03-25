@@ -19,10 +19,9 @@ This project is a **tribute website** dedicated to the late Palestinian journali
 - -about.html
 - -gallery.html
 - -Achievements.html
-- - contact.html
+- -Contact.html
   - assets
  
-- 
 ## 📌 How to View the Website  
 You can visit the live site here: **[GitHub Pages Link]** *(Replace with your actual GitHub Pages URL)*  
 
